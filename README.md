@@ -62,10 +62,5 @@ Expected:
 - "Alert: Suspicious negative cycle detected (Possible Attack Loop)!"
 - Connectivity and MST outputs follow
 
-  
-Build
-- Requires a C++11+ compiler (g++ recommended).
-- Example:
-  g++ -std=c++17 -O2 -o cgt_project project.cpp
 
   
